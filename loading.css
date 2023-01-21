@@ -1,0 +1,13 @@
+#lod{
+    background: #047378 url(paaaa.gif) no-repeat center center;
+    background-size: 20%;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+
+}
+
+.ba9{
+    display: none;
+}
